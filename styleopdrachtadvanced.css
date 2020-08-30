@@ -1,0 +1,70 @@
+div{
+    font-family: Arial,sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    position: relative; top: 200px; left: 20px;
+}
+span{
+    font-size: 16px;
+    position: absolute; top: -20px; left: 4px;
+}
+
+h1{
+    color: red;
+    font-size: 20px;
+    font-weight: normal;
+    position: absolute; top: -130px; left: 0px;
+}
+#submitadvanced {
+    background-color: rgb(129, 156, 248);
+    color: white;
+    border-radius: 4px;
+    padding: 4px;
+    border-color: rgb(116, 124, 236);
+    position: relative; top: 0px; left: 185px;
+}
+#submitadvanced:hover{
+    background-color: rgb(56, 102, 255);
+    border-color: blue;
+}
+.textbox{
+    position: relative; left: 300px ; top: -50px;
+    width: 572px;
+    height: 25px;
+}
+h5{
+    margin: 5px;
+    position: relative; top: -25px;
+    font-weight: normal;
+
+}
+form{
+    position: relative; top: 40px; left: ;
+}
+a {
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+    text-align: right;
+    position:absolute; left:2420px; top:-190px;
+}
+a:hover{
+    text-decoration: underline;
+    color: grey;
+
+}
+#AdvancedLogo{
+    position: relative; top: -190px; left: -10px;
+}
+
+#box{
+    width: 2560px;
+    height: 60px;
+    background-color: #f1f1f1;
+    position: fixed; top: 0px; left: 0px;
+}
+hr{
+    border-color: rgb(250, 250, 250);
+    border-width: 1px;
+    position: absolute; top: 125px; left: 0px;
+    width: 2560px;
+}

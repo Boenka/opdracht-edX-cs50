@@ -1,0 +1,115 @@
+div{
+    font-family: Arial,sans-serif;
+}
+form {
+    text-align: center;
+    position:relative; left:0px; top:200px
+}
+.OtherSearch {
+    text-align: right;
+    position:relative; left:0px; top:-220px;
+    color: grey;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: grey;
+}
+
+#Image {
+    position:relative; left:-20px; top:0px; 
+}
+#textbox{
+    width: 520px;
+    border-width: 1px;
+    border-color: rgba(238,238,238,1);
+    border-radius: 25px;
+    height: 30px;
+    padding: 7px;
+}
+#textbox:hover{
+    border-color: whitesmoke;
+}
+#submit{
+    border-width: 1px;
+    border-radius: 4px;
+    color: grey;
+    width: 125px;
+    height: 35px;
+    font-size : 15px;
+}
+#submit2{
+    border-width: 1px;
+    border-radius: 4px;
+    color: grey;
+    width: 160px;
+    height: 35px;
+    font-size : 15px;
+}
+#submit:hover{
+    color: black;
+    border-color: black;
+}
+#submit2:hover{
+    color: black;
+    border-color: black;
+}
+#logo{
+    text-align: center;
+    position:relative; left:0px; top:200px;
+}
+#textboximage{
+    width: 520px;
+    border-width: 1px;
+    border-color: rgba(238,238,238,1);
+    border-radius: 25px;
+    height: 30px;
+    padding: 7px;
+}
+#othersearch {
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+    text-align: right;
+    position:relative; left:2440px; top:-220px;
+    color: grey;
+    text-decoration: none;
+}
+
+#othersearch:hover{
+    text-decoration: underline;
+    color: grey;
+}
+
+#submitimage{
+    border-radius: 4px;
+    color: grey;
+    width: 180px;
+    height: 35px;
+    font-size : 15px;
+}
+#submitimage:hover{
+    color: black;
+    border-color: black;
+}
+
+#submitadvanced {
+    background-color: rgb(129, 156, 248);
+    color: white;
+    border-radius: 4px;
+    padding: 4px;
+    border-color: rgb(116, 124, 236);
+}
+#submitadvanced:hover{
+    background-color: rgb(56, 102, 255);
+    border-color: blue;
+}
